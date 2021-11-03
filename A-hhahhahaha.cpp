@@ -7,7 +7,7 @@
 अपने कार्य को पूरे मन से समभाव से करो।
 समभाव की इस भावना को योग कहते हैं।*/
 
-
+question Link-https://codeforces.com/contest/1407/problem/A
 /*author - Aayush Kumar*/
 
 
